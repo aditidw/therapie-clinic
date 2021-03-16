@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122027.jpg)
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122027.jpg =100x20)
 
 This project is a starting point for a Flutter application.
 
