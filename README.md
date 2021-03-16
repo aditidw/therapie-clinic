@@ -4,7 +4,19 @@ A new Flutter application.
 
 ## Getting Started
 
-![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122027.jpg =250x)
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122027.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122031.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122041.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122048.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122052.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122055.jpg)
+
+![Alt text](https://github.com/aditidw/therapie-clinic/blob/master/assets/images/Screenshot_20210316-122103.jpg)
 
 This project is a starting point for a Flutter application.
 
